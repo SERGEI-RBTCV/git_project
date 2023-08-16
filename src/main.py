@@ -1,3 +1,3 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 
-echo "Hello World"
+echo "Hello Linux"
